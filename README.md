@@ -12,6 +12,9 @@ href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https
 </p>
 <p align="right">
 
+## Description
+An exploratory data analysis of a dataset. 
+  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105542266/172668516-4e004148-c709-4239-803b-862e0a433da6.gif" /> </p>
 
