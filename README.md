@@ -1,8 +1,8 @@
 # Q2-2022-sample-business-dataset
 [Q2 2022] Sample business dataset analysis
 
-![presentation_gif](https://user-images.githubusercontent.com/105542266/172595938-05963910-84ef-4d8b-b5cd-2738f3630cea.gif)
 
+![presentation_gif](https://user-images.githubusercontent.com/105542266/172668516-4e004148-c709-4239-803b-862e0a433da6.gif)
 
 
 ![clean_data](https://user-images.githubusercontent.com/105542266/172595953-fbeeb212-f28b-4bfd-b562-6efbf7206568.gif)
