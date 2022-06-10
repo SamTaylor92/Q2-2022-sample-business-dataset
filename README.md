@@ -32,7 +32,7 @@ The same analysis was conducted in both `Pandas` and `Google Sheets` and the res
 <a target="_blank"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white"/></a>  
 </p>
 
-<details>
+<details open>
 <summary> <h2>Table of contents</h2></summary>	
 
 - [Description](#description)
