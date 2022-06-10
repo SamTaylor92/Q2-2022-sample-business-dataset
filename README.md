@@ -43,7 +43,8 @@ The same analysis was conducted in both `Pandas` and `Google Sheets` and the res
   - [Data analysis](#-data-analysis-)
 - [Results](#-results-)
 - [Summary](#-summary-)
-- [Recommendations](#-recommendations-)  
+- [Recommendations](#-recommendations-)
+- [Reference material](#reference-material)
   
 </details>
 
@@ -191,6 +192,16 @@ After cleaning the data, I:
 
 <p align='right'><a href="#-tools" target="_blank">⬆</a></p>  
   
-</details>  
+</details>
+
+<details open>
+<summary> <h3>📚[Reference material]</h3> </summary>
+  
+- [x] [Stack Overflow](https://stackoverflow.com/)
+
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>	
+  
+</details>
+
 </details>
 
